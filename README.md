@@ -70,6 +70,12 @@ Os repositórios são mantidos pela **equipe de engenharia e tecnologia da Macro
 
 * Diretor Administrativo:  *Marcel Melo Tozzi*
 * Diretor Operacional:  *Ronaldo Silvio Moreira da Silva*
+* Gerente Administrativo: *Renan Wendel Neves dos Santos*
+* Gerente Operacional: *Caio Cesar Oliveira da Silva*
+
+* Coordenador de Auditoria: *Arthur Freitas do Nascimento*
+* Coordenadora Administrativa: *Mel Fabiah de Sá Filgueira*
+* Coordenadora de Controles e Qualidade: *Isabella Moraes Silva*
 
 * Estagiaria responsável:  *Ester Soares Serafim*
 
