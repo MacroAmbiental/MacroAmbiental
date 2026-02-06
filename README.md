@@ -1,8 +1,9 @@
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3947971-b165-445f-99fa-70b43df3020a" alt="Macro Ambiental" width="700">
+  <img width="600" height="619" alt="Macro Ambiental Logo" src="https://github.com/user-attachments/assets/ac56e862-9cc4-4ed2-a050-9e94cda9e672" />
+
 </p>
+
+
 
 
 **Soluções inteligentes para gestão, tecnologia e sustentabilidade ambiental**
@@ -13,9 +14,11 @@
 
 ## Sobre a Macro Ambiental
 
-A **Macro Ambiental** é uma empresa focada em soluções ambientais integradas, unindo **tecnologia, inovação e responsabilidade socioambiental**. Atuamos no desenvolvimento de sistemas que apoiam a gestão ambiental, a conformidade legal e a tomada de decisões estratégicas.
+A Macro Ambiental Engenharia de Saneamento é uma empresa especializada em soluções ambientais integradas, com ampla expertise em obras de saneamento. Atuamos na implantação de redes coletoras de esgoto e suas ramificações, construção de ETEs (Estações de Tratamento de Esgoto), EEEBs (Estações Elevatórias de Esgoto Bruto), ligações domiciliares e demais sistemas essenciais ao saneamento básico.
 
-Nosso compromisso é entregar soluções eficientes, seguras e alinhadas às melhores práticas ambientais.
+Aliando tecnologia, inovação e responsabilidade socioambiental, desenvolvemos e executamos soluções que apoiam a gestão ambiental, asseguram a conformidade legal e contribuem para a tomada de decisões estratégicas.
+
+Reconhecida como uma das maiores empresas do setor, a Macro Ambiental já executou aproximadamente 650 mil metros de rede de esgoto nos últimos anos, sempre com excelência, segurança e alinhamento às melhores práticas ambientais. Nosso compromisso é entregar resultados eficientes e sustentáveis, promovendo qualidade de vida e preservação do meio ambiente.
 
 ---
 
@@ -65,7 +68,10 @@ Os repositórios são mantidos pela **equipe de engenharia e tecnologia da Macro
 
 **Supervisão técnica:**
 
-* Estagiaria responsável: *Ester Soares Serafim*
+* Diretor Administrativo:  *Marcel Melo Tozzi*
+* Diretor Operacional:  *Ronaldo Silvio Moreira da Silva*
+
+* Estagiaria responsável:  *Ester Soares Serafim*
 
 ---
 
